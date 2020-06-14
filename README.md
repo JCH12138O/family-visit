@@ -17,4 +17,4 @@ Q15: Do you have any other need not listed? (Open end question)<br/>
 Q16: Do you prefer package service for parent visit? (Boolean)<br/>
 
 rawdata.csv contaian all data from survey;<br/>
-rdata.csv is a dataset after starget election;<br/>
+rdata.csv is a dataset after target election;<br/>
