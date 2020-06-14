@@ -1,6 +1,3 @@
-rawdata.csv contaian all data from survey;<br/>
-rdata.csv is a dataset after starget election;<br/>
-
 # Each column in rdata.csv and data type:
 Q1: Do your parents planing to visit you during graduation ceremony? (Boolean)<br/>
 Q2: Gender - female as 0, male as 1 (int)<br/>
@@ -18,3 +15,6 @@ Q13: Need for international insurance from 1 to 7 (int)<br/>
 Q14: Need for tour arrangement from 1 to 7 (int)<br/>
 Q15: Do you have any other need not listed? (Open end question)<br/>
 Q16: Do you prefer package service for parent visit? (Boolean)<br/>
+
+rawdata.csv contaian all data from survey;<br/>
+rdata.csv is a dataset after starget election;<br/>
