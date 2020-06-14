@@ -1,3 +1,12 @@
+# Family visit research for Chinese students<br/>
+Most of Chinese students during their graduation ceremony are facing a problem -- Their family (mostly parents) would like to attend the ceremony, but they usually face some incapable problems:<br/>
+1) Complex international travel related tasks in a foreign language<br/>
+2) Housing<br/>
+3) Tour route selection<br/>
+4) Transportation<br/>
+5) Students love to give their parents a comfortable travel experience, but they are inexperienced or too busy for it.<br/>
+Based on that, I developed a research survey to understand their need and potential in this market.<br/>
+
 # Each column in rdata.csv and data type:
 Q1: Do your parents planing to visit you during graduation ceremony? (Boolean)<br/>
 Q2: Gender - female as 0, male as 1 (int)<br/>
