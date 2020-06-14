@@ -2,7 +2,7 @@
 # rdata.csv is a dataset after starget election;
 
 # Each column in rdata.csv and data type:
-Q1: Do your parents planing to visit you during graduation ceremony? (Boolean)
+Q1: Do your parents planing to visit you during graduation ceremony? (Boolean)<br/>
 Q2: Gender - female as 0, male as 1 (int)
 Q3: Education: Undergrad; Grad (str)
 Q4: Age Range: 18-25; 26-33; 34 and above (str)
